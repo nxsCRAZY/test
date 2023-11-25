@@ -9,5 +9,6 @@ urlpatterns =[
     path('ravshan/', ravshan),
     path('flew/', flew),
     path('kola/', kola),
-    path('jhjjj/', kola)
+    path('jhjjj/', kola),
+    path('jhjjjfrfh/', kola)
 ]
